@@ -16,8 +16,8 @@ Welcome to the hardware design repository for the [LattePanda Mu Ultra x86 Compu
 
 ## Resource Directory
 
-- **Electricals**: This includes pin descriptions, symbols and footprint libraries, official carrier board projects, and example projects.
+- **Electricals**: This includes pin descriptions, symbols and footprint libraries, official carrier board projects.
 
-- **Mechanicals**: This section provides 2D dimensional drawings and 3D models of the LattePanda Mu Ultra, heatsink, and other accessories.
+- **Mechanicals**: This section provides 2D dimensional drawings and 3D models of the LattePanda Mu Ultra.
 
 - **Software**: BIOS firmware, drivers, and other related software resources.

@@ -2,7 +2,7 @@
 
 ## Files
 
-- Examples: official carrier board projects and sample projects
+- Examples: official carrier board projects
 
 - Libraries: Symbol and footprint libraries for LattePanda Mu Ultra
 

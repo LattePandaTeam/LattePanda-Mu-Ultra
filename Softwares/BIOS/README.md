@@ -42,4 +42,4 @@ This repository includes official releases and beta versions of BIOS for various
       DFLT
 ```
 
-For specific model compatibility and functional changes, please refer to the `BOS Release Notes` located in each branch's folder.
+For specific model compatibility and functional changes, please refer to the `BIOS Release Notes` located in each branch's folder.

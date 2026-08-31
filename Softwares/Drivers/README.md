@@ -26,7 +26,7 @@ After installing Windows 11 OS, the OS will automatically connect to the interne
 
 Linux drivers are generally provided by the distribution through kernel and kernel module updates. Please use a newer kernel version to ensure full driver support.
 
-- Recommend Kernel Requirement: 6.12 or higher
+- Minimum Kernel Requirement: 6.11 or higher
 
 The following two drivers need to be installed separately:
 

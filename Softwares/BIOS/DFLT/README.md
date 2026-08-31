@@ -18,9 +18,9 @@
 
 ### Special Notes
 
-- **USB2_P1**: Dedicated for USB Type-C, must be used in conjunction with a PD controller, **cannot be used as a standard USB port**.
-- **USB2_P2**: Dedicated for USB Type-C, must be used in conjunction with a PD controller, **cannot be used as a standard USB port**.
-- **USB2_P6**: Dedicated for Bluetooth, must be used in conjunction with M.2 wireless module, **cannot be used as a standard USB port**.
+- **USB2_P1**: Bound to `TCP1` in the default BIOS; can also be used as a standard USB port.
+- **USB2_P2**: Bound to `TCP0` in the default BIOS; can also be used as a standard USB port.
+- **USB2_P6**: Dedicated to `Bluetooth` on the M.2 wireless module; can also be used as a standard USB port.
 
 ### PCIe Bifurcation
 
