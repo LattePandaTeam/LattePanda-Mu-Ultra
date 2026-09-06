@@ -4,7 +4,7 @@ All pin definitions for LattePanda Mu Ultra(226V/256V Processor).
 
 ![pinout](./pinout.png)
 
-## Edge Connector
+## Edge Connector Pinout
 
 The edge connector of LattePanda Mu Ultra is designed for DDR4 260P SODIMM. But this pin table is too long, so we put it in a separate .xlsx file.
 
@@ -13,7 +13,7 @@ The edge connector of LattePanda Mu Ultra is designed for DDR4 260P SODIMM. But 
 ⚠️ Note:  
 Due to the various PCIe bifurcation, you should check the [BIOS functionality documentation](../../Softwares/BIOS/) before starting your design. Do not design directly from the pin definition documentation here.
 
-## Edge Connector Comparison
+## Edge Connector Pinout Comparison
 
 LattePanda Mu and LattePanda Mu Ultra use the same edge connector, but their pin definitions are slightly different.
 
